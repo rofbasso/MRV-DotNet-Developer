@@ -1,0 +1,13 @@
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache

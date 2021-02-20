@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Godi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Godi\\.nuget\\packages"
+    ]
+  }
+}
