@@ -1,0 +1,13 @@
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\Godi\Documents\Cursos\MRV Dot Net Developer\Dot Net\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
